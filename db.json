@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "bonsai",
+      "price": "0.02",
+      "image": "https://www.mydomaine.com/thmb/3NE9bEc6DWb07kufyxNiXshU9es=/1934x1550/filters:fill(auto,1)/GettyImages-598322873-409b66c4895d492eb28fde9e752d98ad.jpg",
+      "id": 8
     }
   ]
 }
